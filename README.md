@@ -6,7 +6,7 @@
 ![yv1ing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yv1ing&theme=transparent)
 
 
-## Latest Blog Posts
+## :blue_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [LangChain 驱动的自动代码审计工具](https://blog.yvling.cn/post/e24b1e9bab64f0e9b011de2bf82bbe422320bf4d70458e40dd5dbf14d61e2bcf)
 - [关于 GFW 的一些思考](https://blog.yvling.cn/post/a82dc02ae85aa5a62237882e959275b4e68d821a63d3c24e7a208cafa4bf7c55)
