@@ -3,7 +3,7 @@
 
 ## :clipboard: Statistics
 
-![yv1ing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yv1ing&theme=transparent)
+![Metrics](/github-metrics.svg)
 
 
 ## :blue_book: Latest Blog Posts
