@@ -1,4 +1,4 @@
-name: GithubMetrics
+name: Latest Github Metrics
 on:
   # Schedule update per hour
   schedule: [{cron: "0 * * * *"}]
