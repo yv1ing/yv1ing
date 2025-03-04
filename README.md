@@ -8,9 +8,9 @@
 
 ## :blue_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [一种可能的防溯源方案](https://blog.yvling.cn/post/cdfa4396c34c60185f2a02c78f8334b189329f363f42984b41e20beb48519856)
 - [WAF Bypass 姿势汇总](https://blog.yvling.cn/post/7ac08b6d5922956d4003a4b3031af18519ea4d1ef799d89a0542ceffb2f4a989)
-- [OAuth 2.0 授权机制和安全风险](https://blog.yvling.cn/post/e146bafcd84ed8e0b4fe7bf88e2241cadcf9460516ee74fa20e880b8e4ab7bdb)
-- [MinIO 从重定向到 GetShell](https://blog.yvling.cn/post/c645f7fe0036995ba44389563ab1599533540ec5ec90bdbe3030ac639ec5b681)
-- [LangChain 驱动的自动代码审计工具](https://blog.yvling.cn/post/e24b1e9bab64f0e9b011de2bf82bbe422320bf4d70458e40dd5dbf14d61e2bcf)
-- [关于 GFW 的一些思考](https://blog.yvling.cn/post/a82dc02ae85aa5a62237882e959275b4e68d821a63d3c24e7a208cafa4bf7c55)
+- [OAuth 2.0 授权机制和安全风险](https://blog.yvling.cn/post/8e68c0dee0bd09f72bbca800c13439a8faf378cb183454ab31852a24af84afdb)
+- [MinIO 从重定向到 GetShell](https://blog.yvling.cn/post/f060e40d9a5ede7b31f8db2b1ba6819371a9ced5fa10cf14e879ae1f84041ff6)
+- [LangChain 驱动的自动代码审计工具](https://blog.yvling.cn/post/6670705bfa0a575b71ebc6d5c9f4fc74bf705ff089d55015a98bece10d13396f)
 <!-- BLOG-POST-LIST:END -->
