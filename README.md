@@ -4,7 +4,7 @@
 
 Hi, I’m yv1ing, a cybersecurity engineer and AI-native developer.
 
-I graduated from the School of Computer Science and Technology at Anhui University. 
+In 2025, I graduated from the School of Computer Science and Technology at Anhui University.
 
 My journey into cybersecurity began when I joined the university’s information security lab, and I have never looked back. I started [my blog](https://blog.yvling.cn/) around the same time, and it has since become a record of my learning, work, and growth along the way.
 
