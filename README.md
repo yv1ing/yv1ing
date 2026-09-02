@@ -1,6 +1,6 @@
 # About me
 
-<img align='right' src="https://github-stats-extended.vercel.app/api?username=yv1ing&custom_title=yv1ing%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&k=0" style="width: 35%; max-width: 20vw" >
+<img align='right' src="./profile/stats.svg" style="width: 35%; max-width: 20vw" >
 
 Hi, I’m yv1ing, a cybersecurity engineer and AI-native developer.
 
