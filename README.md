@@ -1,7 +1,5 @@
 # About me
 
-<img align='right' src="./profile/stats.svg" style="width: 35%; max-width: 20vw" >
-
 Hi, I’m yv1ing, a cybersecurity engineer and AI-native developer.
 
 In 2025, I graduated from the School of Computer Science and Technology at Anhui University.
